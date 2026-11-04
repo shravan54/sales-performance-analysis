@@ -1,0 +1,9 @@
+Transaction_ID,Date,Product_Category,Units_Sold,Unit_Price,Unit_Cost,Region
+TXN_101,2026-01-01,Electronics,5,500,350,North
+TXN_102,2026-01-02,Furniture,2,150,100,South
+TXN_103,2026-01-03,Electronics,,500,350,East
+TXN_104,2026-01-04,Clothing,10,25,10,West
+TXN_105,2026-01-05,Furniture,1,150,100,North
+TXN_106,2026-01-06,Clothing,15,25,10,South
+TXN_107,2026-01-07,Electronics,3,500,350,West
+TXN_108,2026-01-08,Furniture,4,,100,East
